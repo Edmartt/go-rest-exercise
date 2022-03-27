@@ -5,7 +5,7 @@ A simple exercise for learning about http, rest api in Go language.
 ## Steps for start this project
 
 ```
-git clone https://github.com/edmartt/go-rest-excercise
+git clone https://github.com/edmartt/go-rest-exercise
 ```
 
 ```

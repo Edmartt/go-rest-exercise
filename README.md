@@ -1,6 +1,6 @@
 # Simple web service example
 
-A simple excercise for learning about http, rest api in Go language.
+A simple exercise for learning about http, rest api in Go language.
 
 ## Steps for start this project
 
